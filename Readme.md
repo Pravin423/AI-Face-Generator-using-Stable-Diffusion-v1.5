@@ -1,4 +1,6 @@
 AI Face Generator using Stable Diffusion v1.5
+CollabLink--https://colab.research.google.com/drive/1LNLUIVfyAA07JuYVnYE2vocqxlCkrpco?usp=sharing
+
 This project is a Jupyter Notebook-based application that allows users to generate realistic human faces using the **Stable Diffusion v1.5** model. The interface is built with `ipywidgets`, providing a user-friendly way to input prompts, login to Hugging Face if needed, and display generated images.
 
 
