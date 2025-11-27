@@ -78,6 +78,13 @@ Notes
 
 
 Output-
+<img width="1690" height="596" alt="image" src="https://github.com/user-attachments/assets/ec645a6f-8cd9-4b48-a312-1bd6e6a816e3" />
+
+<img width="695" height="680" alt="image" src="https://github.com/user-attachments/assets/a1d26831-df5f-4fae-8823-4ef8530e546c" />
+
+Prompt-
+“A black dog soaring through the sky wearing a bright red and blue Superman-style costume, photorealistic, dynamic mid-air flying pose, wind flowing through the dog’s fur and cape, detailed muscular body, cape dramatically trailing behind, sunlight shining from behind creating a glowing rim light, fluffy clouds below, deep blue sky above, hyper-realistic lighting, ultra-sharp details, cinematic wide-angle shot, vibrant colors, heroic expression on the dog’s face, 8k resolution, professional photography style, action-packed dramatic scene.”
+
        
 
 
